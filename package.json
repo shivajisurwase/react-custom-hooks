@@ -1,7 +1,7 @@
 {
-  "name": "react-custom-hooks",
+  "name": "@react-custom-hooks",
   "version": "1.0.0",
-  "description": "\"All Hooks\"",
+  "description": "All Hooks",
   "main": "index.js",
   "scripts": {
     "test": "npm run test"
@@ -14,7 +14,7 @@
     "hooks"
   ],
   "author": "Shivaji & Shyamal",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/shivajisurwase/react-custom-hooks/issues"
   },
